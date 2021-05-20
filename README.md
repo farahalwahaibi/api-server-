@@ -1,19 +1,20 @@
-# basic-api-server
+# api-server
 
-## LAB - 03
+## LAB - 04
 
 ## **Deployment Test**
 ## **Author: Farah AlWahaibi**
 
-[PR LINK](https://github.com/farahalwahaibi/basic-api-server/pull/1)
+[PR LINK](https://github.com/farahalwahaibi/api-server-/pull/1)
 
-[Heroku APP](https://basic-api-server2021.herokuapp.com/)
+[Heroku APP](https://api-server-2021.herokuapp.com/)
 
-[Report Test](https://github.com/farahalwahaibi/basic-api-server/actions)
+[Report Test](https://github.com/farahalwahaibi/api-server-/actions)
 
 ## **Setup**
 * .env requirements
-  * PORT - Port Number
+  * PORT - 3000
+  * MONGOOSE_URI
 
 
 ## **Running the app**
