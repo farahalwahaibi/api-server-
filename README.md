@@ -18,7 +18,13 @@
 
 
 ## **Running the app**
-npm start
+* npm start
+* Endpoints:
+   * /person or /clothes will return a json list of all current data 
+   * /person/:id or /clothes/:id will return specific data for specific id
+   * POST requests to /person or /clothes will create new data 
+   * PUT requests to /person/:id or /clothes/:id will update current data depends on it's provided id
+   * DELETE requests to /person/:id or /clothes/:id will delete specific data depends on it's provided id
 
 
 ## **Tests**
@@ -30,6 +36,10 @@ npm start
   * Read a record using GET
   * Update a record using PUT
   * Destroy a record using DELETE
+
+
+## **UML Diagram**
+
 
 
 ***Thank you!!***
