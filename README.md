@@ -37,9 +37,12 @@
   * Update a record using PUT
   * Destroy a record using DELETE
 
+***
 
 ## **UML Diagram**
 
+
+![uml-diagram](Capture.JPG)
 
 
 ***Thank you!!***
