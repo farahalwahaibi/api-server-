@@ -20,11 +20,11 @@
 ## **Running the app**
 * **npm start**
 * **Endpoints:**
-   * **/person** or **/clothes** will return a json list of all current data 
-   * **/person/:id** or **/clothes/:id** will return specific data for specific id
-   * **POST** requests to **/person** or **/clothes** will create new data 
-   * **PUT** requests to **/person/:id** or **/clothes/:id** will update current data depends on it's provided id
-   * **DELETE** requests to **/person/:id** or **/clothes/:id** will delete specific data depends on it's provided id
+   * **/food** or **/clothes** will return a json list of all current data 
+   * **/food/:id** or **/clothes/:id** will return specific data for specific id
+   * **POST** requests to **/food** or **/clothes** will create new data 
+   * **PUT** requests to **/food/:id** or **/clothes/:id** will update current data depends on it's provided id
+   * **DELETE** requests to **/food/:id** or **/clothes/:id** will delete specific data depends on it's provided id
 
 
 ## **Tests**
