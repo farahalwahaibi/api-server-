@@ -13,23 +13,23 @@
 
 ## **Setup**
 * .env requirements
-  * PORT - 3000
-  * MONGOOSE_URI
+  * **PORT** - 3000
+  * **MONGOOSE_URI**
 
 
 ## **Running the app**
-* npm start
-* Endpoints:
-   * /person or /clothes will return a json list of all current data 
-   * /person/:id or /clothes/:id will return specific data for specific id
-   * POST requests to /person or /clothes will create new data 
-   * PUT requests to /person/:id or /clothes/:id will update current data depends on it's provided id
-   * DELETE requests to /person/:id or /clothes/:id will delete specific data depends on it's provided id
+* **npm start**
+* **Endpoints:**
+   * **/person** or **/clothes** will return a json list of all current data 
+   * **/person/:id** or **/clothes/:id** will return specific data for specific id
+   * **POST** requests to **/person** or **/clothes** will create new data 
+   * **PUT** requests to **/person/:id** or **/clothes/:id** will update current data depends on it's provided id
+   * **DELETE** requests to **/person/:id** or **/clothes/:id** will delete specific data depends on it's provided id
 
 
 ## **Tests**
-* 404 on a bad route
-* 404 on a bad method
+* **404** on a bad route
+* **404** on a bad method
 * The correct status codes and returned data for each REST route
   * Create a record using POST
   * Read a list of records using GET
